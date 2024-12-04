@@ -1,0 +1,30 @@
+.blue {
+    color: blue;
+}
+
+#square {
+    width: 30px;
+    height: 30px;
+    background-color: blueviolet;
+}
+
+#square2 {
+    width: 30px;
+    height: 30px;
+    background-color: blueviolet;
+}
+
+.d-none {
+    display: none;
+}
+
+input,
+select {
+    display: block;
+    margin: 0px 0 20px 0px;
+}
+
+.error {
+    color: red;
+    font-size: 0.9em;
+}
